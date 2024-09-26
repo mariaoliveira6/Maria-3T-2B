@@ -12,7 +12,7 @@ criaCartao(
 
 criaCartao(
     'Taylor Swift',
-    'Quantos gatos Taylor tem ?',
+    'Quantos gatos Taylor têm?',
     '3'
 )
 
@@ -24,7 +24,7 @@ criaCartao(
 
 criaCartao(
     'Taylor Swift',
-    'Quantos grammys Taylor tem?',
+    'Quantos Grammys Taylor têm?',
     '11'
 )
 

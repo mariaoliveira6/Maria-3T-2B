@@ -42,7 +42,7 @@ criaCartao(
 
 criaCartao(
     'Taylor Swift',
-    'Qual música da Taylor Paula Fernandes participa?',
+    'Qual música da Taylor, Paula Fernandes participa?',
     'Long Live'
 )
 
